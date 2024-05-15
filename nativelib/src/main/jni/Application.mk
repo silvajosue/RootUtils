@@ -4,3 +4,4 @@ APP_PLATFORM := android-30
 LOCAL_ARM_MODE := arm
 LOCAL_ARM_NEON := true
 ARCH_ARM_HAVE_NEON := true
+APP_STL := c++_shared
